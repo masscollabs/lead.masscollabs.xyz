@@ -1,4 +1,4 @@
-# Leads of Masscollabs
+# Leaders of Masscollabs
 
 **Core Team Members of Masscollabs Services**
 
