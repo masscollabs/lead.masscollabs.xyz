@@ -12,7 +12,6 @@
 
 # Forges
 
-* https://source.masscollabs.xyz/masscollabs/lead.masscollabs.xy
 * https://codeberg.org/masscollabs/lead.masscollabs.xyz
 * https://git.disroot.org/masscollabs/lead.masscollabs.xyz
 * https://git.vern.cc/masscollabs/lead.masscollabs.xyz
