@@ -10,6 +10,10 @@
 
 * **Muha Aliss** : https://gitlab.com/muhaaliss
 
+* **MCG** : mcg at masscollabs.xyz
+
+* **Mehmet Zeki** : mehmetzeki at masscollabs.xyz
+
 # Forges
 
 * https://codeberg.org/masscollabs/lead.masscollabs.xyz
