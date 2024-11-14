@@ -10,9 +10,9 @@
 
 * **Muha Aliss** : https://gitlab.com/muhaaliss
 
-* **MCG** : mcg at masscollabs.xyz
+* **MCG** : mcg at masscollabs dot xyz
 
-* **Mehmet Zeki** : mehmetzeki at masscollabs.xyz
+* **Mehmet Zeki** : mehmetzeki at masscollabs dot xyz
 
 # Forges
 
