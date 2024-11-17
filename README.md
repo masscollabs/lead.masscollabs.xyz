@@ -2,13 +2,13 @@
 
 **Core Team Members of Masscollabs Services**
 
-* **Mert Gör** : https://github.com/hwpplayer1
+* **Mert Gör** : mertgor at masscollabs dot xyz 
 
-* **Byte**     : https://github.com/8192bytes
+* **Byte**     : 8192bytes at masscollabs dot xyz
 
-* **Muharrem Mikail Aydın** : https://gitlab.com/Miko51/
+* **Muharrem Mikail Aydın** : maydn at masscollabs dot xyz
 
-* **Muha Aliss** : https://gitlab.com/muhaaliss
+* **Muha Aliss** : muhaaliss at masscollabs dot xyz 
 
 * **MCG** : mcg at masscollabs dot xyz
 
