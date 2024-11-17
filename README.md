@@ -14,6 +14,8 @@
 
 * **Mehmet Zeki** : mehmetzeki at masscollabs dot xyz
 
+* **Ali Kırlı** : alikirli at masscollabs dot xyz
+
 # Forges
 
 * https://codeberg.org/masscollabs/lead.masscollabs.xyz
