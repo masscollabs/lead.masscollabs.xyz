@@ -16,6 +16,8 @@
 
 * **Ali Kırlı** : alikirli at masscollabs dot xyz
 
+* **Emrullah Enis Çetinkaya** : emrullah_enis_cetinkaya@masscollabs.xyz
+
 # Forges
 
 * https://codeberg.org/masscollabs/lead.masscollabs.xyz
