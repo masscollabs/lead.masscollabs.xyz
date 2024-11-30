@@ -16,7 +16,7 @@
 
 * **Ali Kırlı** : alikirli at masscollabs dot xyz
 
-* **Emrullah Enis Çetinkaya** : emrullah_enis_cetinkaya@masscollabs.xyz
+* **Emrullah Enis Çetinkaya** : emrullah_enis_cetinkaya at masscollabs dot xyz
 
 * **Rıdvan Kadayıfçı**: ridvankadayifci at masscollabs dot xyz
 
