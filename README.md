@@ -2,23 +2,9 @@
 
 **Core Team Members of Masscollabs Services**
 
-* **Mert Gör** : mertgor at masscollabs dot xyz 
+* **Mert Gör** : https://github.com/hwpplayer1
 
-* **Byte**     : 8192bytes at masscollabs dot xyz
-
-* **Muharrem Mikail Aydın** : maydn at masscollabs dot xyz
-
-* **Muha Aliss** : muhaaliss at masscollabs dot xyz 
-
-* **MCG** : mcg at masscollabs dot xyz
-
-* **Mehmet Zeki** : mehmetzeki at masscollabs dot xyz
-
-* **Ali Kırlı** : alikirli at masscollabs dot xyz
-
-* **Emrullah Enis Çetinkaya** : emrullah_enis_cetinkaya at masscollabs dot xyz
-
-* **Rıdvan Kadayıfçı**: ridvankadayifci at masscollabs dot xyz
+* **Byte**     : https://github.com/8192bytes
 
 # Forges
 
